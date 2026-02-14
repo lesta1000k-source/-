@@ -3,7 +3,6 @@ import os
 from dataclasses import dataclass
 from typing import List, Optional
 
-# Класс, представляющий сущность "Игровой компьютер"
 @dataclass
 class GamingComputer:
     id: int
